@@ -1,1 +1,1 @@
-find 
+find /goinfre/kamolomo/desktop/Day00/ -type f -exec rm {} \;
